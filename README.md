@@ -6,7 +6,7 @@ To run the application locally, first clone this repository with the following c
 
 => git clone https://github.com/nazim806/mongo-scraper-digest.git
 
-Next cd into mongo-scraper and run an npm install.
+Next cd into mongo-scraper-digest and run npm install.
 
 Be sure to have your local mongoDB running
 
@@ -15,6 +15,8 @@ Finally, run the node server locally by typing 'node server.js'
 Now, open the local application on port 3000 at the URL: http://localhost:3000/.
 
 Enjoy your articles!
+
+
 
 **Technologies used:**
 
