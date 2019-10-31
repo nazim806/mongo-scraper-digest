@@ -4,7 +4,7 @@ This is an app that uses Cheerio to scrape the New York Times US section and pul
 
 To run the application locally, first clone this repository with the following command.
 
-git clone 
+=> git clone https://github.com/nazim806/mongo-scraper-digest.git
 
 Next cd into mongo-scraper and run an npm install.
 
