@@ -1,6 +1,6 @@
 # mongo-scraper-digest
 
-This is an app that uses Cheerio to scrape the New York Times US section and pull the most recent articles:
+This is an app that uses Cheerio to scrape the New York Times US section and pull the most recent articles. Read NYT articles here: https://mongo-scraper-digest.herokuapp.com/
 
 To run the application locally, first clone this repository with the following command.
 
