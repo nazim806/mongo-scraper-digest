@@ -8,7 +8,7 @@ To run the application locally, first clone this repository with the following c
 
 Next cd into mongo-scraper-digest and run npm install.
 
-Be sure to have your local mongoDB running
+Be sure to have your local mongoDB running.
 
 Finally, run the node server locally by typing 'node server.js'
 
