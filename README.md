@@ -30,15 +30,10 @@ Mongoose
 
 Handlebars.js
 
-NPM modules:
-
-Cheerio
-
-Request-Promise
-
-Bootstrap 
-
-CSS3 
+CSS3, Bootstrap 
 
 HTML5
+
+**NPM modules:** Cheerio, Request-Promise
+
 
